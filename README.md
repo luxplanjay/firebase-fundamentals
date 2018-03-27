@@ -14,6 +14,7 @@
 
 ### Getting started
 
+* [Introducing Firebase (video)](https://youtu.be/O17OWyx08Cg?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
 * [Add Firebase to your JavaScript Project (docs)](https://firebase.google.com/docs/web/setup)
 * [Add Firebase to your JavaScript Project (video)](https://youtu.be/k1D0_wFlXgo?list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX)
 
@@ -39,7 +40,9 @@
 
 ### Cloud Messaging
 
+* [Introducing Firebase Cloud Messaging](https://youtu.be/sioEY4tWmLI?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
 * [Getting Started with Firebase Cloud Messaging on the Web (video)](https://youtu.be/BsCBCudx58g?list=PLdssc-pDiZ7NOf5gFkWU-e64HLZAYj00E)
+* [Firebase Cloud Messaging (docs)](https://firebase.google.com/docs/cloud-messaging/js/client)
 
 ### Hosting
 
