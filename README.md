@@ -4,17 +4,17 @@
 
 ## Intro to Firebase
 
-* [What is Firebase](https://youtu.be/Lz1R4QDbMJc)
-* [Firebase Overview](https://youtu.be/mi1GtQ5xn2M)
-* [Using the Firebase SDK](https://youtu.be/dWwCq8eB3ec)
-* [How to Structure Firebase](https://youtu.be/wEcXYxjGN9o)
-* [Firebase Database Rules](https://youtu.be/ycu1zZ_uHF8)
+* [Introducing Firebase (video)](https://youtu.be/O17OWyx08Cg?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
+* [What is Firebase (video)](https://youtu.be/Lz1R4QDbMJc)
+* [Firebase Overview (video)](https://youtu.be/mi1GtQ5xn2M)
+* [Using the Firebase SDK (video)](https://youtu.be/dWwCq8eB3ec)
+* [How to Structure Firebase (video)](https://youtu.be/wEcXYxjGN9o)
+* [Firebase Database Rules (video)](https://youtu.be/ycu1zZ_uHF8)
 
 ## Firebase Features
 
 ### Getting started
 
-* [Introducing Firebase (video)](https://youtu.be/O17OWyx08Cg?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
 * [Add Firebase to your JavaScript Project (docs)](https://firebase.google.com/docs/web/setup)
 * [Add Firebase to your JavaScript Project (video)](https://youtu.be/k1D0_wFlXgo?list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX)
 
